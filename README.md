@@ -8,3 +8,6 @@ Here I will write some content to check how markdown works.
 Lyras kennel name is Björkbo Vifslan
 
 ## Check if pull works
+
+Now I' adding in the Terminal view some stuff. 
+Lyra is watching
